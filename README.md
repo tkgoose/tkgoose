@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-- Notebook, 
+
+#### Tools:
+
+* Notebook, IDE from JetBrains 
 
 #### Stack:
 [![Python](https://img.shields.io/badge/-Python-3572a5?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
